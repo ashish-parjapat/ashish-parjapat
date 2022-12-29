@@ -8,6 +8,7 @@ I am Ashish Kumar. I am a Full-Stack JavaScript developer and love writing clean
 [![Gmail Badge](https://img.shields.io/badge/-ashish.kalayn007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashish.kalayn007@gmail.com)](mailto:ashish.kalayn007@gmail.com)
 <!-- [![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
  -->
+ [![An image of @2018381084's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/2018381084)](https://holopin.io/@2018381084)
  
  ## ⚡ Technologies
 

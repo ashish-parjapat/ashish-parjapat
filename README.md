@@ -43,21 +43,21 @@ Certainly! Here's the updated section with the link to your university:
 ## Projects
 ### OpenCart E-Commerce Testing Suite
 - **Duration:** April 2024 - May 2024
-- **Link:** [git.io/OpenCart](git.io/OpenCart)
+- **Link:** [git.io/OpenCart](https://github.com/ashish-parjapat/OpenCart-TestCases)
 - **Description:**
   - Conducted manual testing for the OpenCart e-commerce website, creating test scenarios, cases, and a traceability matrix.
   - Played a pivotal role in team collaboration, ensuring seamless coordination and applying rigorous testing methodologies.
   
 ### Movie App
 - **Duration:** Mar 2023 - Apr 2023
-- **Link:** [git.io/capstone-project-super-app](git.io/capstone-project-super-app)
+- **Link:** [git.io/capstone-project-super-app](https://github.com/ashish-parjapat/capstone-project-super-app)
 - **Description:**
   - Developed and deployed an engaging React-based entertainment application, GenreSelector.
   - Integrated APIs to fetch and display a vast collection of entertainment options categorized by genres.
   
 ### Salon Appointment
 - **Duration:** Jan 2023 - Feb 2023
-- **Link:** [git.io/salon-appointment](git.io/salon-appointment)
+- **Link:** [git.io/salon-appointment](https://github.com/ashish-parjapat/salon-appointment)
 - **Description:**
   - Constructed a salon appointment management system using bash programming and PostgreSQL.
   - Validated the functionality and performance of the bash script through rigorous testing methods.

@@ -8,8 +8,8 @@ Certainly! Here's a README file for your GitHub profile:
 # Ashish Kumar
 
 ## Contact
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn:** [linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin)
+- **GitHub:** [github.com/ashish-parjapat](https://github.com/ashish-parjapat)
+- **LinkedIn:** [linkedin.com/in/ashish-kumar](https://linkedin.com/in//ashish-kumar-6a2a0419b/)
 - **Email:** ashish.kalyan007@gmail.com
 - **Phone:** +91-8307414508
 

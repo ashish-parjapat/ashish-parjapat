@@ -64,10 +64,13 @@ Certainly! Here's the updated section with the link to your university:
 
 Sure, here's the modified achievement section with the addition of your Geeks for Geeks profile:
 
+Absolutely, here's the updated achievement section with the addition of the Qspider website:
+
 ## Achievements
-- Top Performer at Qspider.
-- Academic Excellence Award in class 12th.
-- Solved over 250+ coding questions on [Geeks ForGeeks](https://www.geeksforgeeks.org/user/ashishkumar591/)
+- Top Performer at [Qspider](https://www.qspiders.com/)
+- Academic Excellence Award in class 12th
+- Ranked among top 4 in University on [Geeks ForGeeks](https://www.geeksforgeeks.org/user/ashishkumar591/)
+- Solved over 150+ coding questions on various platforms using Java
 
 ## Technical Skills
 - **Programming Languages:** Java, JavaScript, SQL

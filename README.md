@@ -13,7 +13,6 @@
 - **Email:** ashish.kalyan007@gmail.com
 - **Phone:** +91-8307414508
 
-Certainly! Here's the updated section with the link to your university:
 
 ## Education
 - **Degree:** Bachelors of Technology in Computer Science and Engineering
@@ -61,10 +60,6 @@ Certainly! Here's the updated section with the link to your university:
 - **Description:**
   - Constructed a salon appointment management system using bash programming and PostgreSQL.
   - Validated the functionality and performance of the bash script through rigorous testing methods.
-
-Sure, here's the modified achievement section with the addition of your Geeks for Geeks profile:
-
-Absolutely, here's the updated achievement section with the addition of the Qspider website:
 
 ## Achievements
 - Top Performer at [Qspider](https://www.qspiders.com/)

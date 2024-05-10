@@ -1,47 +1,91 @@
 ### Hi there 👋
 
 
-I am Ashish Kumar. I am a Full-Stack JavaScript developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+Certainly! Here's a README file for your GitHub profile:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ashish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashish-kumar-6a2a0419b)](https://www.linkedin.com/in/ashish-kumar-6a2a0419b)
+---
 
-[![Gmail Badge](https://img.shields.io/badge/-ashish.kalayn007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ashish.kalayn007@gmail.com)](mailto:ashish.kalayn007@gmail.com)
-<!-- [![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
- -->
- [![An image of @2018381084's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/2018381084)](https://holopin.io/@2018381084)
- 
- ## ⚡ Technologies
+# Ashish Kumar
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-<!-- ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql) -->
-<!-- ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql) -->
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+## Contact
+- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **LinkedIn:** [linkedin.com/in/yourlinkedin](https://linkedin.com/in/yourlinkedin)
+- **Email:** ashish.kalyan007@gmail.com
+- **Phone:** +91-8307414508
 
-<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=ashish-parjapat&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ludehsar&hide=TeX&layout=compact) -->
+## Education
+- **Degree:** Bachelors of Technology in Computer Science and Engineering
+- **University:** Maharshi Dayanand University, Rohtak, India
+- **Duration:** Jul 2020 - Jun 2024
+- **GPA:** 8.5/10.0
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
+## Experience
+### Qspider
+- **Position:** Trainee
+- **Duration:** Jan 2024 - May 2024
+- **Location:** Delhi, India
+- **Description:**
+  - Proficient in Java, SQL, and J2EE with hands-on experience in application development.
+  - Skilled in manual testing, including test case design and defect tracking.
+  - Experienced in ensuring software quality and reliability throughout the development lifecycle.
 
+### Cuvette
+- **Position:** MERN stack Training
+- **Duration:** Dec 2022 - Jun 2023
+- **Location:** Remote, India
+- **Description:**
+  - Developed full-stack applications using MERN (MongoDB, Express, React, Node.js) technologies.
+  - Implemented RESTful APIs for seamless communication between the front-end and back-end.
+  - Utilized Express and Node.js to build a robust and scalable server-side architecture.
+
+## Projects
+### OpenCart E-Commerce Testing Suite
+- **Duration:** April 2024 - May 2024
+- **Link:** [git.io/OpenCart](git.io/OpenCart)
+- **Description:**
+  - Conducted manual testing for the OpenCart e-commerce website, creating test scenarios, cases, and a traceability matrix.
+  - Played a pivotal role in team collaboration, ensuring seamless coordination and applying rigorous testing methodologies.
+  
+### Movie App
+- **Duration:** Mar 2023 - Apr 2023
+- **Link:** [git.io/capstone-project-super-app](git.io/capstone-project-super-app)
+- **Description:**
+  - Developed and deployed an engaging React-based entertainment application, GenreSelector.
+  - Integrated APIs to fetch and display a vast collection of entertainment options categorized by genres.
+  
+### Salon Appointment
+- **Duration:** Jan 2023 - Feb 2023
+- **Link:** [git.io/salon-appointment](git.io/salon-appointment)
+- **Description:**
+  - Constructed a salon appointment management system using bash programming and PostgreSQL.
+  - Validated the functionality and performance of the bash script through rigorous testing methods.
+
+## Achievements
+- Top Performer at Qspider
+- Academic Excellence Award in class 12th
+- Ranked among top 4 in University on Geeks ForGeeks
+- Solved over 150+ coding questions on various platforms using Java
+
+## Technical Skills
+- **Programming Languages:** Java, JavaScript, SQL
+- **Technologies:** XML, Manual Testing, Automation Testing (Selenium), SDLC, STLC, Agile, Jenkins
+- **Tools:** Git, GitHub, Jira, MySQL, Maven, Linux
+
+## Relevant Coursework
+### Computer Science:
+- Deep Learning
+- Data Structures and Algorithms
+- Databases
+- Operating Systems
+- Computer Networks
+
+### Mathematics:
+- Optimization
+- Discrete Maths
+- Probability and Random Processes
+- Number Theory
+- Linear Algebra
+
+---
 
 

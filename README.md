@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Certainly! Here's a README file for your GitHub profile:
+
 
 ---
 

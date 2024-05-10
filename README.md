@@ -21,7 +21,7 @@
 - **GPA:** 8.5/10.0
 
 ## Experience
-### Qspider
+### [Qspider](https://www.qspiders.com/)
 - **Position:** Trainee
 - **Duration:** Jan 2024 - May 2024
 - **Location:** Delhi, India

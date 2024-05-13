@@ -17,7 +17,7 @@
 ## Education
 - **Degree:** Bachelors of Technology in Computer Science and Engineering
 - **University:** [Maharshi Dayanand University, Rohtak, India](https://mdu.ac.in/)
-- **Duration:** Jul 2020 - Jun 2024
+- **Duration:** Jul 2020 - May 2024
 - **GPA:** 8.5/10.0
 
 ## Experience

@@ -68,8 +68,8 @@
 - Solved over 150+ coding questions on various platforms using Java
 
 ## Technical Skills
-- **Programming Languages:** Java, JavaScript, SQL
-- **Technologies:** XML, Manual Testing, Automation Testing (Selenium), SDLC, STLC, Agile, Jenkins
+- **Programming Languages:** Java, JavaScript, SQL, OOP
+- **WebTechnologies:** HTML5, CSS, React, Bootstrap
 - **Tools:** Git, GitHub, Jira, MySQL, Maven, Linux
 
 ## Relevant Coursework

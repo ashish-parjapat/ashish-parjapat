@@ -21,6 +21,18 @@
 - **GPA:** 8.5/10.0
 
 ## Experience
+
+### Vaco Binary Semantics
+- **Position:** Associate Software Engineer
+- **Duration:** Jun 2024 - Present
+- **Location:** Gurugram, India
+- **Description:**
+  - Managed ETL processes to ensure efficient data transformation and integration.
+  - Developed and maintained applications, ensuring they meet client requirements and internal standards.
+  - Experienced in ensuring software quality and reliability throughout the development lifecycle.
+
+
+
 ### Qspider
 - **Position:** Trainee
 - **Duration:** Jan 2024 - May 2024
@@ -40,19 +52,24 @@
   - Utilized Express and Node.js to build a robust and scalable server-side architecture.
 
 ## Projects
-### OpenCart E-Commerce Testing Suite
-- **Duration:** April 2024 - May 2024
-- **Link:** [git.io/OpenCart](https://github.com/ashish-parjapat/OpenCart-TestCases)
+### Employee ETL Pipeline using Medallion Architecture (Bronze, Silver, Gold Layers) 
+- **Duration:** March 2025 - April 2024
+- **Link:** [git.io/employee-etl](https://github.com/ashish-parjapat/Employee-ETL-pipeline/tree/main)
 - **Description:**
-  - Conducted manual testing for the OpenCart e-commerce website, creating test scenarios, cases, and a traceability matrix.
-  - Played a pivotal role in team collaboration, ensuring seamless coordination and applying rigorous testing methodologies.
+    - Developed an end-to-end ETL pipeline in Databricks using Medallion Architecture to process employee data across
+     Bronze, Silver, and Gold layers with Delta Lake.
+  - Implemented secure data lake access using Azure App Registration and Key Vault to mount ADLS Gen2 on DBFS.
+  - Optimized PySpark workflows for data cleaning, transformation, and aggregation, enabling scalable and modular data
+processing.
   
-### Movie App
-- **Duration:** Mar 2023 - Apr 2023
-- **Link:** [git.io/capstone-project-super-app](https://github.com/ashish-parjapat/capstone-project-super-app)
+### Automobiles Data Pipeline
 - **Description:**
-  - Developed and deployed an engaging React-based entertainment application, GenreSelector.
-  - Integrated APIs to fetch and display a vast collection of entertainment options categorized by genres.
+   - Built and maintained an end-to-end data pipeline to ingest global automobile data from JATO, enabling real-time data
+availability for various markets.
+  - Designed and developed a dynamic dashboard using GoogleSQL to visualize car availability across countries, enhancing
+data accessibility for business teams.
+  - Ensured smooth integration of ingested data by collaborating with stakeholders and optimizing data transformations for
+accuracy and performance.
   
 ### Salon Appointment
 - **Duration:** Jan 2023 - Feb 2023
@@ -61,24 +78,21 @@
   - Constructed a salon appointment management system using bash programming and PostgreSQL.
   - Validated the functionality and performance of the bash script through rigorous testing methods.
 
-## Achievements
-- Top Performer at [Qspider](https://www.qspiders.com/)
-- Academic Excellence Award in class 12th
-- Ranked among top 4 in University on [Geeks ForGeeks](https://www.geeksforgeeks.org/user/ashishkumar591/)
-- Solved over 150+ coding questions on various platforms using Java
 
 ## Technical Skills
-- **Programming Languages:** Java, JavaScript, SQL, OOP
-- **WebTechnologies:** HTML5, CSS, React, Bootstrap
-- **Tools:** Git, GitHub, Jira, MySQL, Maven, Linux
+- **Programming Languages**: Python, SQL, Javascript
+- **Big Data**: PySpark, Delta Lake, Databricks
+- **Cloud**: Azure (ADF, Blob, SQL DB), GCP (BigQuery, GCS)
+- **Workflow Orchestration**: Apache Airflow, Google Apps Script
+- **Databases**: PostgreSQL, MongoDB, MySQL
+- **Tools**: Git, VSCode, Looker Studio, Linux
 
 ## Relevant Coursework
-### Computer Science:
-- Deep Learning
-- Data Structures and Algorithms
-- Databases
-- Operating Systems
-- Computer Networks
+### Data Engineering:
+- [ETL and Data Pipelines with Shell, Airflow and Kafka](https://coursera.org/share/8f15eca18c3586ba09af14d5158f7048)
+- [Introduction to Big Data with Spark and Hadoop](https://coursera.org/share/14852fe593cdf6f91727b0d75433e555)
+- [Relational Database Administration (DBA)](https://coursera.org/share/6cfcf01a0d0eb1f2df264ba4c8655b4d)
+- [Data Management with Databricks: Big Data with Delta Lakes](https://coursera.org/share/cf0b02c919c9ec88ebedc8c07ed466fd)
 
 ### Mathematics:
 - Optimization
